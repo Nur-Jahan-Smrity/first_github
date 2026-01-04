@@ -1,4 +1,7 @@
+# write once after creating any repository
 git init
+
+# each time
 git add .
 git commit -m "first commit"
 git branch -M main
