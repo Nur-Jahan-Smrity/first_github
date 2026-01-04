@@ -1,9 +1,13 @@
-# write once after creating any repository
+# once after creating any repository :
 git init
-
-# each time
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Nur-Jahan-Smrity/first_github.git
 git push -u origin main
+
+
+#each time :
+git add .
+git commit -m "first commit"
+git push
